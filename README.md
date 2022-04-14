@@ -13,6 +13,6 @@ Begin simulation by clicking on the 'Add PacMan' button followed by the 'Start G
 
 ## Future improvements:
 Add more dynamic components to the page that increases the user interaction.
-
+Add random color feature to each created PacMan
 
 ###### MIT License
